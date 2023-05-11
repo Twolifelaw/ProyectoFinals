@@ -1,6 +1,8 @@
 package ObjetosProyecto;
 
-public class Vehiculo {
+public abstract class Vehiculo {
     private String marca;
+    
+    
     
 }
