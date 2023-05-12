@@ -45,6 +45,9 @@ public class Cliente {
         this.numero = numero;
     }
 
+    public void add(Cliente cliente) {
+    }
+
 
     
 
